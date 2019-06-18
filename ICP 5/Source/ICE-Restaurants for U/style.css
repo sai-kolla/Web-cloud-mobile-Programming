@@ -1,0 +1,24 @@
+.btn{
+    margin: 15px;
+
+}
+label{
+    font-size: 1.5em;
+}
+.item
+{
+    margin:10px 0;
+}
+.complete{
+    text-decoration: line-through;
+}
+.item-style{
+    border: 1px solid;
+    margin: 5px 0;
+    border-radius: 5px;
+    background-color: #fff;
+}
+body{
+
+    background: url("background.png");
+}
