@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "775409866567",
+    "firebase_url": "https://ase-lab3.firebaseio.com",
+    "project_id": "ase-lab3",
+    "storage_bucket": "ase-lab3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775409866567:android:a78d3df9e22904c6",
+        "android_client_info": {
+          "package_name": "com.example.firebaseuploadimagesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775409866567-jvm7vha8ak6l5nidfebprr7qs0ggqie6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseuploadimagesapp",
+            "certificate_hash": "2a91f0f277bc6fb6467c6dc95727ef5061616c3b"
+          }
+        },
+        {
+          "client_id": "775409866567-qa8jhssmloug81veahahbvf5bvqrvpp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxHRjutWKOXI2xSi7s7INOxO5Ej8vc7sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775409866567-qa8jhssmloug81veahahbvf5bvqrvpp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775409866567:android:2ab3f3441420b29d",
+        "android_client_info": {
+          "package_name": "com.umkc.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775409866567-qa8jhssmloug81veahahbvf5bvqrvpp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxHRjutWKOXI2xSi7s7INOxO5Ej8vc7sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775409866567-qa8jhssmloug81veahahbvf5bvqrvpp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775409866567:android:0e7008247a2b171f",
+        "android_client_info": {
+          "package_name": "edu.umkc.rashmi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775409866567-2b6koq4o8fsa034s0ueq41h078n9dp4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.umkc.rashmi",
+            "certificate_hash": "2a91f0f277bc6fb6467c6dc95727ef5061616c3b"
+          }
+        },
+        {
+          "client_id": "775409866567-qa8jhssmloug81veahahbvf5bvqrvpp9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxHRjutWKOXI2xSi7s7INOxO5Ej8vc7sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775409866567-qa8jhssmloug81veahahbvf5bvqrvpp9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
